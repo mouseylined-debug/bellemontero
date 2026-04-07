@@ -8,7 +8,7 @@
   "server": {
     "ip": "signoftimes.playwithbao.com",
     "port": 50017,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
